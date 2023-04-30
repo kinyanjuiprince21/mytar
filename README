@@ -1,0 +1,14 @@
+Tape archive
+To build the project
+run
+    cmake .
+This command will create the Makefile
+then run
+    make
+
+This command will compile the source file to build the executables
+
+once build you can run the code as
+
+./mytar -[cxtf] [file] [filelist]
+
